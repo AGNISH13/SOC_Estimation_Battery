@@ -1,7 +1,7 @@
 # State-Of-Charge estimation from "LG 18650HG2 Li-ion Battery Data"
 
 ## Project Description
-This is a python-based project predicting the `SOC` of the `Li-ion Battery` based on `Regression` technique utilizing a two-layer `Convolutional Neural Network`. The entire coding workflow can be viewed in the ipynb file present in this repository.
+This is a python-based project predicting the `SOC` of the `Li-ion Battery` in Electric Vehicles (EV) based on `Regression` technique utilizing a two-layer `Convolutional Neural Network`. The entire coding workflow can be viewed in the ipynb file present in this repository.
 This project has been inspired from [this repository](https://github.com/sautee/battery-state-of-charge-estimation/tree/main).
 
 ## Dataset Description
