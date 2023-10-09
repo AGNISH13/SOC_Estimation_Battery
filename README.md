@@ -11,7 +11,7 @@ Models are built using Tensorflow and trained on the [LG18650HG2](https://data.m
 The format in which the data has been stored while training using the model can be viewed [here](https://drive.google.com/drive/folders/1fwOdWS7FWJw0zuVVotXa_1kmB0fOGEgg).
 
 ## Results
-The data has been trained and tested on the [original model](https://github.com/sautee/battery-state-of-charge-estimation/blob/main/training/lg/lg_cnn_minmaxnorm_1Hz_conv1d.ipynb) previously used on this dataset as well as our proposed model. Gievn below is the comparison of the results using both.
+The data has been trained and tested on the [original model](https://github.com/sautee/battery-state-of-charge-estimation/blob/main/training/lg/lg_cnn_minmaxnorm_1Hz_conv1d.ipynb) previously used on this dataset as well as our proposed model. Given below is the comparison of the results using both.
 
 Loss Plots:
 -     Original Model
