@@ -8,7 +8,7 @@ This project has been inspired from [this repository](https://github.com/sautee/
 The models are built using Tensorflow and trained on the [LG18650HG2](https://data.mendeley.com/datasets/cp3473x7xv/3) Li-ion Battery Dataset.
 (Kollmeyer, Philip; Vidal, Carlos; Naguib, Mina; Skells, Michael (2020), “LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script”, Mendeley Data, V3, doi: 10.17632/cp3473x7xv.3)
 
-The format in which the data has been stored while training using the model can be viewed [here](https://drive.google.com/drive/folders/1fwOdWS7FWJw0zuVVotXa_1kmB0fOGEgg).
+Format in which the data has been stored while training using the model can be viewed [here](https://drive.google.com/drive/folders/1fwOdWS7FWJw0zuVVotXa_1kmB0fOGEgg).
 
 ## Results
 The data has been trained and tested on the [original model](https://github.com/sautee/battery-state-of-charge-estimation/blob/main/training/lg/lg_cnn_minmaxnorm_1Hz_conv1d.ipynb) previously used on this dataset as well as our proposed model. Given below is the comparison of the results using both.
